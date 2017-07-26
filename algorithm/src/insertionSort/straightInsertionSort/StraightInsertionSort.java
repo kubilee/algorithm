@@ -1,5 +1,13 @@
 package insertionSort.straightInsertionSort;
 
+/**
+ * 直接插入排序
+ * StraightInsertionSort
+ * @author lichq
+ * @Date 2017-7-26
+ * @version 1.0
+ *
+ */
 public class StraightInsertionSort {
     private static int count = 0;
     public static void main(String[] args) {
