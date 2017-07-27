@@ -17,7 +17,7 @@ public class TestSelectionSort {
     private static void sort(int[] toSort) {
         for(int i = 0 ;i<toSort.length;i++){
             int min = toSort[i];
-            int index = i+1;
+            int index = i;
             for(int j=i+1;j<toSort.length;j++){
                 if(toSort[j]<min){
                     min = toSort[j];
