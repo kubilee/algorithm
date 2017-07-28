@@ -1,6 +1,4 @@
-package insertionSort.selectionSort;
-
-import sun.misc.Sort;
+package selectionSort;
 
 /**
  * Created by 长青 on 2017/7/27.
